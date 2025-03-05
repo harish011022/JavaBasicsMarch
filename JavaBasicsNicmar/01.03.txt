@@ -1,0 +1,29 @@
+Gcd
+string builder string buffer
+divisible by 3
+conditional statements  hw
+
+access modifier *
+private *
+default modifier *
+
+3.2
+Scanner *
+Buffered Reader *
+Console *
+Data Input Stream
+Commmand Line Arguments
+
+4.2
+loops - for,while,do while
+string
+stringbuffer
+stringbuilder
+
+5.2
+Methods
+Static methos , instance method
+non static mehods can not be directly called inside a class and if we have to use the non static method we should declare it as a static or use obj concept to call the class;
+Recursion
+
+
